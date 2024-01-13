@@ -1,0 +1,5 @@
+=SQRT(POWER((B2-B3),2)+(POWER((C2-C3),2)))
+=SQRT(POWER((7-3),2) + (POWER((1-4),2)))
+=SQRT(16+9)
+=SQRT(25)
+=5

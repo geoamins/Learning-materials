@@ -1,0 +1,36 @@
+The actual data
+--------------------
+#	Patient	Actual	Predicted
+=============================
+1	Amir	N	?
+2	Khan	N	?
+3	Aiyma	Y	?
+4	Sidra	N	?
+5	Sana	N	?
+6	Jan	N	?
+7	Saad	Y	?
+8	Ahma	Y	?
+9	Afaq	Y	?
+10	Jan	N	?
+
+After applying classifier
+-----------------------------
+
+#	Patient	Actual	Predicted
+=============================
+1	Amir	N	Y
+2	Khan	N	Y
+3	Aiyma	Y	N
+4	Sidra	N	N
+5	Sana	N	N
+6	Jan	N	Y
+7	Saad	Y	Y
+8	Ahma	Y	N
+9	Afaq	Y	Y
+10	Jan	N	N
+
+Q1. find the Accuracy
+Q2. find the sensitivity
+Q3. find the specificity
+Q4. find the f-measure
+Q5. find the precision
